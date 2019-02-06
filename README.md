@@ -8,15 +8,16 @@ Don't forget to do the following changes,<br />
 <br />
 <h2>Structure of .env file</h2>
 <br />
-<pre>PORT = ****
+<pre>PORT = 4000
   
+  // Replace the following by creating a user in mLab Database in Users Tab
   USER = ####
   PASS = $$$$
 </pre>
 <br />
 <h2>Starting the server</h2><br />
-in the CMD, enter "npm intsall"<br />
--> npm run dev<br />
+in the CMD, enter <b>"npm intsall"</b><br />
+<b>-> npm run dev</b><br />
 You're good to go<br />
 
 
