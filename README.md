@@ -11,7 +11,8 @@ Don't forget to do the following changes,<br />
 <code>
 PORT = ****
 
-USER = #### <br />
+USER = ####
+
 PASS = $$$$
 </code>
 <br />
