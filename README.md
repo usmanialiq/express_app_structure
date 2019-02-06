@@ -8,11 +8,12 @@ Don't forget to do the following changes,<br />
 <br />
 <h2>Structure of .env file</h2>
 <br />
+<code>
 PORT = ****
 
 USER = #### <br />
 PASS = $$$$
-
+</code>
 <br />
 <h2>Starting the server</h2><br />
 in the CMD, enter "npm intsall"<br />
