@@ -2,7 +2,7 @@ Obviously, it wont won't work until you add ".env" file
 
 <br />
 <h2>Create Database in mLab</h2>  
-Firt, create a database and copy the connection link in './connection/mLab.js' (inside of temple string)<br />
+First, create a database and copy the connection link in './connection/mLab.js' (inside of template string)<br />
 Don't forget to do the following changes,<br />
 
 <br />
